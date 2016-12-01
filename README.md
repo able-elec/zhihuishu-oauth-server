@@ -76,7 +76,7 @@ GET/POST https://oauth.zhihuishu.com/openapi/user
 ###### Response  
 ```
 {
-    "realname": "示例用户",
+    "realname": "John",
     "avatar": "http://image.zhihuishu.com/zhs_yanfa_150820/ablecommons/cutimage/201610/3d1695c3e37f4378934b93dfe134e9e1.png"
 }
 ```
