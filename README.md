@@ -4,7 +4,7 @@
 This is a description of the OAuth2 flow .  
 ref : <https://developer.github.com/v3/oauth/>
 
-###### 1. Redirect users to request GitHub access
+###### 1. Redirect users to request zhihuishu access
 ```
 GET https://oauth.zhihuishu.com/authorize
 ```
